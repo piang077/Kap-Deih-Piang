@@ -6,7 +6,7 @@ On the tech side, I’ve built and explored labs and projects, including monitor
 
 I enjoy learning by doing, figuring out how to make systems more secure, and thinking about both the technical side and how it affects people and business. Outside of cybersecurity, I love playing football and enjoy team sports that challenge me both physically and mentally.
 
-## 💻 What I Do
+## What I Do
 
 Through my internship and part-time roles, I’ve:
 
@@ -68,7 +68,7 @@ In addition, I’ve built and tested enterprise-style lab environments, includin
 
 ---
 
-## 🎯 Interests
+## Interests
 
 Security Operations, Incident Response, Enterprise Security, Threat Detection, Risk Management, Cyber Awareness
 
