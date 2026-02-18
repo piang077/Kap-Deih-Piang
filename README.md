@@ -30,9 +30,39 @@ In addition, I’ve built and tested enterprise-style lab environments, includin
 
 ---
 
-## 🔧 Tools & Technologies
+# Technical Skills Demonstrated
 
-Windows Server | Active Directory | Microsoft Entra ID | Splunk | SOAR (Tines) | LimaCharlie EDR | Autopsy | Wireshark | Volatility | PowerShell | VirusTotal | Linux | Networking fundamentals
+**Security Operations**
+
+- Log analysis (Splunk)
+
+- Alert triage
+
+- Incident documentation
+
+**Endpoint & Automation**
+
+- EDR deployment
+
+- Detection engineering
+
+- SOAR playbook creation
+
+**Identity & Access Management**
+
+- User & group management
+
+- MFA & Conditional Access
+
+- Policy enforcement
+
+**Digital Forensics**
+
+- Disk & memory analysis
+
+- Evidence handling procedures
+
+- Structured forensic reporting
 
 ---
 
