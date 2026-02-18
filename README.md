@@ -22,7 +22,9 @@ In addition, I’ve built and tested enterprise-style lab environments, includin
 
 - **Microsoft Entra / Azure IAM labs** for cloud identity & access management
   - [View project](https://github.com/piang077/IAM-Lab-Azure-Microsoft-Entra-ID)  
-- **SOAR & EDR workflows** for automated detection and response  
+- **SOAR & EDR workflows** for automated detection and response
+  - [View project](https://github.com/piang077/SOAR-EDR)  
+ 
 - **Digital Investigation Lab** using Autopsy, Wireshark, Volatility, and other DFIR tools
   - [View project](https://github.com/piang077/Digital-Investigation-Simulated-Case-)
 - **Splunk SOC Lab** for log monitoring and incident detection  
