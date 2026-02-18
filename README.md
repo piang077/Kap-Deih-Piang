@@ -1,4 +1,4 @@
-# Hi, I'm Piang 👋
+# Hi, I'm Kap 👋
 
 I’m an early-career cybersecurity professional with hands-on experience supporting security operations, compliance initiatives, and incident response activities. I combine practical technical skills with a risk-focused mindset, helping organisations strengthen their security posture while understanding business impact.
 
