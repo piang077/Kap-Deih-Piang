@@ -22,10 +22,12 @@ Through my internship and part-time roles at Global Green Tag International, Iâ€
 In addition, Iâ€™ve built and tested enterprise-style lab environments, including:
 
 - **Active Directory deployments** for secure identity and access management  
-- **Splunk SOC labs** for log monitoring and incident detection  
 - **Microsoft Entra / Azure IAM labs** for cloud identity & access management  
 - **SOAR & EDR workflows** for automated detection and response  
-- **Digital investigation labs** using Autopsy, Wireshark, Volatility, and other DFIR tools
+- **Digital Investigation Lab**using Autopsy, Wireshark, Volatility, and other DFIR tools
+  - [View project](https://github.com/yourusername/digital-investigation-lab)
+- **Splunk SOC Lab** for log monitoring and incident detection  
+  - [View project](https://github.com/yourusername/splunk-soc-lab)
 
 ---
 
