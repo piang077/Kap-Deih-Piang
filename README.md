@@ -8,7 +8,7 @@ I enjoy learning by doing, figuring out how to make systems more secure, and thi
 
 ## 💻 What I Do
 
-Through my internship and part-time roles at Global Green Tag International, I’ve:
+Through my internship and part-time roles, I’ve:
 
 - Supported phishing simulation campaigns to improve staff awareness and reduce social engineering risk  
 - Reviewed and enhanced cybersecurity policies and standards aligned with ISO 27001 and the Essential Eight  
@@ -41,7 +41,3 @@ Windows Server | Active Directory | Microsoft Entra ID | Splunk | SOAR (Tines) |
 Security Operations, Incident Response, Enterprise Security, Threat Detection, Risk Management, Cyber Awareness
 
 ---
-
-## 📫 Contact
-
-- Email: piang.andrew@gmail.com
