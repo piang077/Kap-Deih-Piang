@@ -15,6 +15,9 @@ Through my internship and part-time roles at Global Green Tag International, Iâ€
 - Identified and coordinated mitigation of security risks and vulnerabilities  
 - Contributed to incident response documentation and reusable IR templates  
 - Developed and delivered cybersecurity awareness content for staff
+- Identify and raise risks or vulnerabilities, coordinating mitigation strategies with senior management
+- Maintain technical documentation to support security and IT operations.
+
 
 In addition, Iâ€™ve built and tested enterprise-style lab environments, including:
 
