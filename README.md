@@ -12,11 +12,10 @@ Through my internship and part-time roles at Global Green Tag International, Iâ€
 
 - Supported phishing simulation campaigns to improve staff awareness and reduce social engineering risk  
 - Reviewed and enhanced cybersecurity policies and standards aligned with ISO 27001 and the Essential Eight  
-- Identified and coordinated mitigation of security risks and vulnerabilities  
 - Contributed to incident response documentation and reusable IR templates  
 - Developed and delivered cybersecurity awareness content for staff
-- Identify and raise risks or vulnerabilities, coordinating mitigation strategies with senior management
-- Maintain technical documentation to support security and IT operations.
+- Identified and raised risks or vulnerabilities, coordinating mitigation strategies with senior management
+- Maintained technical documentation to support security and IT operations.
 
 
 In addition, Iâ€™ve built and tested enterprise-style lab environments, including:
