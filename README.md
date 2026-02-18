@@ -38,5 +38,4 @@ Security Operations, Incident Response, Enterprise Security, Threat Detection, R
 
 ## 📫 Contact
 
-- LinkedIn: [your-link]  
-- Email: [your-email]
+- Email: piang.andrew@gmail.com
