@@ -28,7 +28,7 @@ In addition, I’ve built and tested enterprise-style lab environments, includin
 
 ## 🔧 Tools & Technologies
 
-Windows Server | Active Directory | Microsoft Entra ID | Splunk | SOAR (Tines) | LimaCharlie EDR | Autopsy | Wireshark | Volatility | PowerShell | SHA256 & VirusTotal | Linux | Networking fundamentals
+Windows Server | Active Directory | Microsoft Entra ID | Splunk | SOAR (Tines) | LimaCharlie EDR | Autopsy | Wireshark | Volatility | PowerShell | VirusTotal | Linux | Networking fundamentals
 
 ---
 
