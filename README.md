@@ -20,7 +20,6 @@ Through my internship and part-time roles, I’ve:
 
 In addition, I’ve built and tested enterprise-style lab environments, including:
 
-- **Active Directory deployments** for secure identity and access management  
 - **Microsoft Entra / Azure IAM labs** for cloud identity & access management
   - [View project](https://github.com/piang077/IAM-Lab-Azure-Microsoft-Entra-ID)  
 - **SOAR & EDR workflows** for automated detection and response  
