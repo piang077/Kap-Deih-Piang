@@ -26,7 +26,7 @@ In addition, I’ve built and tested enterprise-style lab environments, includin
 - **Digital Investigation Lab** using Autopsy, Wireshark, Volatility, and other DFIR tools
   - [View project](https://github.com/piang077/Digital-Investigation-Simulated-Case-)
 - **Splunk SOC Lab** for log monitoring and incident detection  
-  - [View project](https://github.com/yourusername/splunk-soc-lab)
+  - [View project](https://github.com/piang077/Splunk-Lab)
 
 ---
 
