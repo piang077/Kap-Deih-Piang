@@ -41,7 +41,7 @@ In addition, I’ve built and tested enterprise-style lab environments, includin
 
 **Security Operations**
 
-- Log analysis (Splunk)
+- Log analysis (Splunk/Sentinel)
 
 - Alert triage
 
