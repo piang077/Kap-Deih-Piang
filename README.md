@@ -21,12 +21,17 @@ Through my internship and part-time roles, I’ve:
 In addition, I’ve built and tested enterprise-style lab environments, including:
 
 - **Microsoft Entra / Azure IAM labs** for cloud identity & access management
-  - [View project](https://github.com/piang077/IAM-Lab-Azure-Microsoft-Entra-ID)  
-- **SOAR & EDR workflows** for automated detection and response
-  - [View project](https://github.com/piang077/SOAR-EDR)  
+  - [View project](https://github.com/piang077/IAM-Lab-Azure-Microsoft-Entra-ID)
+
+- **Enterprise Endpoint Security Lab – Microsoft Intune & Microsoft Defender for Endpoint** 
+  - [View project](https://github.com/piang077/Microsoft-End-Point-Security-Lab)
+    
+- **Microsoft Sentinel Home Lab – SOC & Threat Detection** 
+  - [View project](https://github.com/piang077/Microsoft-Sentinel-SOC-Home-Lab)  
  
 - **Digital Investigation Lab** using Autopsy, Wireshark, Volatility, and other DFIR tools
   - [View project](https://github.com/piang077/Digital-Investigation-Simulated-Case-)
+    
 - **Splunk SOC Lab** for log monitoring and incident detection  
   - [View project](https://github.com/piang077/Splunk-Lab)
 
