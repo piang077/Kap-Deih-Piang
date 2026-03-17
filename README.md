@@ -16,6 +16,8 @@ Through my internship and part-time roles, I’ve:
 - Developed and delivered cybersecurity awareness content for staff
 - Identified and raised risks or vulnerabilities, coordinating mitigation strategies with senior management
 - Maintained technical documentation to support security and IT operations.
+- Developed an internal risk and change management system using Microsoft Power Apps and SharePoint, streamlining submission, tracking, and approval workflows for improved visibility and compliance.
+
 
 
 In addition, I’ve built and tested enterprise-style lab environments, including:
