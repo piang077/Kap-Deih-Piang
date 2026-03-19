@@ -1,4 +1,4 @@
-# Hi, I'm Piang 👋
+# Hi, I'm Kap 👋
 
 I’m an early-career cybersecurity professional who loves getting hands-on with security work, from lab projects to real-world IT security tasks. Through my part-time role and internship, I’ve supported phishing simulation campaigns, conducted web application testing, updated incident response plans, reviewed cybersecurity policies, and delivered staff awareness sessions. I’ve also identified risks and vulnerabilities, coordinated mitigation strategies, and maintained technical documentation to help improve overall security posture.
 
