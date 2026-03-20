@@ -31,7 +31,7 @@ In addition, I’ve built and tested enterprise-style lab environments, includin
 - **Microsoft Sentinel Home Lab – SOC & Threat Detection** 
   - [View project](https://github.com/piang077/Microsoft-Sentinel-SOC-Home-Lab)  
  
-- **Digital Investigation Lab** using Autopsy, Wireshark, Volatility, and other DFIR tools
+- **Digital Investigation Lab (Forensic)** using Autopsy, Wireshark, Volatility, and other DFIR tools
   - [View project](https://github.com/piang077/Digital-Investigation-Simulated-Case-)
     
 - **Splunk SOC Lab** for threat hunting
