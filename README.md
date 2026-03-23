@@ -1,6 +1,6 @@
 # Hi, I'm Kap 👋
 
-I’m an early-career cybersecurity professional who loves getting hands-on with security work, from lab projects to real-world IT security tasks. Through my part-time role and internship, I’ve supported phishing simulation campaigns, conducted web application testing, updated incident response plans, reviewed cybersecurity policies, compliance check, and delivered staff awareness sessions. I’ve also identified risks and vulnerabilities, coordinated mitigation strategies, and maintained technical documentation to help improve overall security posture.
+I’m early in my cyber career and love getting hands-on with security work, from lab projects to real-world IT security tasks. Through my part-time role and internship, I’ve supported phishing simulation campaigns, conducted web application testing, updated incident response plans, reviewed cybersecurity policies, compliance check, and delivered staff awareness sessions. I’ve also identified risks and vulnerabilities, coordinated mitigation strategies, and maintained technical documentation to help improve overall security posture.
 
 On the tech side, I’ve built and explored labs and projects, including monitoring logs, threat hunting in Splunk/Sentinel, experimenting with Azure Entra ID/Intune/Defender for endpoint, running SOAR and EDR workflows, and performing digital investigations using tools like Autopsy, Wireshark, Sleuth Kit, and Volatility.
 
