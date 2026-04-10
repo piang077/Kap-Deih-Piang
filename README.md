@@ -10,13 +10,17 @@ I enjoy learning by doing, figuring out how to make systems more secure, and thi
 
 Through my internship and part-time roles, I’ve:
 
-- Supported phishing simulation campaigns to improve staff awareness and reduce social engineering risk  
-- Reviewed and enhanced cybersecurity policies and standards aligned with ISO 27001 and the Essential Eight  
-- Contributed to incident response documentation and reusable IR templates  
-- Developed and delivered cybersecurity awareness content for staff
-- Identified and raised risks or vulnerabilities, coordinating mitigation strategies with senior management
-- Maintained technical documentation to support security and IT operations.
-- Developed an internal risk and change management system using Microsoft Power Automate and SharePoint, streamlining submission, tracking, and approval workflows for improved visibility and compliance.
+- Supported organisation-wide phishing simulation campaigns by analysing employee response rates and reinforcing security awareness training, contributing to reduced susceptibility to social engineering attacks and improved organisational security culture.
+- Reviewed and updated the organisation’s Incident Response Plan (IRP) and implemented standardised incident reporting templates to improve consistency and efficiency in security incident handling processes.
+- Maintained security and IT documentation to support operational processes, audit readiness, and compliance requirements.
+- Designed and developed an automated risk and change management workflow using Microsoft Power Automate and SharePoint to streamline submission, tracking, and approval processes, improving visibility, governance, and reporting efficiency.
+- Supported security testing activities by identifying application security weaknesses and documenting remediation recommendations in collaboration with senior staff, contributing to improved application security posture and reduced exposure to common vulnerabilities.
+- Supported ISO 27001 control checks and Essential Eight maturity assessments by validating security control implementation and identifying compliance gaps, contributing to improved compliance visibility and alignment with organisational security standards.
+- Developed and delivered cybersecurity awareness content for staff and tracked participation and engagement, improving organisational security awareness and reinforcing secure behaviour practices.
+
+
+
+
 
 
 
