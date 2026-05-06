@@ -83,6 +83,6 @@ In addition, I’ve built and tested enterprise-style lab environments, includin
 
 ## Interests
 
-Security Operations, Incident Response, Enterprise Security, Threat Detection, Risk Management, Cyber Awareness
+Security Operations, Incident Response, Enterprise Security, Threat Detection, Risk Management, Cyber Awareness, IT Support
 
 ---
