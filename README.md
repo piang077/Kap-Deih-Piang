@@ -10,7 +10,7 @@ I enjoy learning by doing, figuring out how to make systems more secure, and thi
 
 Through my internship and part-time roles, I’ve:
 
-- Led organisation-wide phishing simulation campaigns by analysing employee response rates and reinforcing security awareness training, contributing to reduced susceptibility to social engineering attacks and improved organisational security culture.
+- Conducted organisation-wide phishing simulation campaigns by analysing employee response rates and reinforcing security awareness training, contributing to reduced susceptibility to social engineering attacks and improved organisational security culture.
 - Reviewed and updated the organisation’s Incident Response Plan (IRP) and implemented standardised incident reporting templates to improve consistency and efficiency in security incident handling processes.
 - Maintained security and IT documentation to support operational processes, audit readiness, and compliance requirements.
 - Designed and developed an automated risk and change management workflow using Microsoft Power Automate and SharePoint to streamline submission, tracking, and approval processes, improving visibility, governance, and reporting efficiency.
