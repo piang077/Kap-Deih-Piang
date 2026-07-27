@@ -16,7 +16,7 @@ Through my internship and part-time roles, I’ve:
 - Designed and developed an automated risk and change management workflow using Microsoft Power Automate and SharePoint to streamline submission, tracking, and approval processes, improving visibility, governance, and reporting efficiency.
 - Supported security testing activities by identifying application security weaknesses and documenting remediation recommendations in collaboration with senior staff, contributing to improved application security posture and reduced exposure to common vulnerabilities.
 - Supported ISO 27001 control checks and Essential Eight maturity assessments by validating security control implementation and identifying compliance gaps, contributing to improved compliance visibility and alignment with organisational security standards.
-- Developed and delivered cybersecurity awareness content for staff and tracked participation and engagement, improving organisational security awareness and reinforcing secure behaviour practices.
+- Developed cybersecurity awareness content for staff and tracked participation and engagement, improving organisational security awareness and reinforcing secure behaviour practices.
 
 
 
