@@ -33,7 +33,7 @@ In addition, I’ve built and tested enterprise-style lab environments, includin
 - **Enterprise Endpoint Security Lab – Microsoft Intune & Microsoft Defender for Endpoint** 
   - [View project](https://github.com/piang077/Microsoft-End-Point-Security-Lab)
     
-- **Microsoft Sentinel Home Lab – SOC & Threat Detection** 
+- **Microsoft Sentinel SOC & Incident Response Lab – SOC & Threat Detection** 
   - [View project](https://github.com/piang077/Microsoft-Sentinel-SOC-Home-Lab)  
  
 - **Digital Forensics Investigation – Simulated Case Analysis** using Autopsy, Wireshark, Volatility, and other DFIR tools
