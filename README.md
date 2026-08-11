@@ -8,7 +8,7 @@ I enjoy learning by doing, figuring out how to make systems more secure, and thi
 
 ## What I Do
 
-Through my internship and IT security assistant roles, I’ve:
+Through my internship and IT security support assistant roles, I’ve:
 
 - Supported a phishing-related security incident by assisting the affected staff member, gathering initial information and providing structured containment and escalation guidance in line with security procedures.
 - Developed and conducted an organisation-wide phishing simulation campaign, including creating the phishing content, monitoring employee responses, and analysing the results. 
