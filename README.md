@@ -15,7 +15,7 @@ Through my internship and IT security support assistant roles, I’ve:
 - Developed and conducted an organisation-wide phishing simulation campaign, including creating the phishing content, monitoring employee responses, and analysing the results. 
 - Maintained security and IT documentation to support operational processes, audit readiness, and compliance requirements.
 - Designed and developed an automated risk and change management workflow using Microsoft Power Automate and SharePoint to streamline submission, tracking, and approval processes, improving visibility, governance, and reporting efficiency.
-- Supported security testing activities by identifying application security weaknesses and documenting remediation recommendations in collaboration with senior staff, contributing to improved application security posture and reduced exposure to common vulnerabilities.
+- Supported security testing activities by identifying application security weaknesses, assessing associated risks, and communicating findings and remediation recommendations to technical and non-technical stakeholders, contributing to improved application security and reduced exposure to common vulnerabilities.
 - Supported ISO 27001 control checks and Essential Eight maturity assessments by validating security control implementation and identifying compliance gaps, contributing to improved compliance visibility and alignment with organisational security standards.
 - Developed cybersecurity awareness content for staff and tracked participation and engagement, improving organisational security awareness and reinforcing secure behaviour practices.
 
