@@ -10,9 +10,9 @@ I enjoy learning by doing, figuring out how to make systems more secure, and thi
 
 Through my internship and IT security support assistant roles, I’ve:
 
+- Reviewed and updated the organisation's Incident Response Plan and developed standardised incident reporting templates to improve consistency in incident handling and documentation.
 - Supported a phishing-related security incident by assisting the affected staff member, gathering initial information and providing structured containment and escalation guidance in line with security procedures.
 - Developed and conducted an organisation-wide phishing simulation campaign, including creating the phishing content, monitoring employee responses, and analysing the results. 
-- Reviewed and updated the organisation’s Incident Response Plan (IRP) and implemented standardised incident reporting templates to improve consistency and efficiency in security incident handling processes.
 - Maintained security and IT documentation to support operational processes, audit readiness, and compliance requirements.
 - Designed and developed an automated risk and change management workflow using Microsoft Power Automate and SharePoint to streamline submission, tracking, and approval processes, improving visibility, governance, and reporting efficiency.
 - Supported security testing activities by identifying application security weaknesses and documenting remediation recommendations in collaboration with senior staff, contributing to improved application security posture and reduced exposure to common vulnerabilities.
