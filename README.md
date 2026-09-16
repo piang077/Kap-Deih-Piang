@@ -1,8 +1,8 @@
 # Hi, I'm Kap 👋
 
-I’m early in my cyber career and love getting hands-on with security work, from lab projects to real-world IT security tasks. Through my IT Security Support Assistant role and internship, I’ve supported phishing simulation campaigns, conducted web application testing, updated incident response plans, reviewed cybersecurity policies, compliance check, and delivered staff awareness sessions. I’ve also identified risks and vulnerabilities, coordinated mitigation strategies, and maintained technical documentation to help improve overall security posture.
+I enjoy getting hands-on with security work, from practical projects to IT security tasks. Through my IT Security Support Assistant role and internship, I’ve supported phishing simulation campaigns and investigations, conducted web application testing, updated incident response plans, reviewed cybersecurity policies and compliance requirements, and delivered staff awareness sessions. I’ve also identified risks and vulnerabilities, supported mitigation strategies, and maintained technical documentation to help strengthen overall security.
 
-On the tech side, I’ve built and explored labs and projects, including monitoring logs, threat hunting in Splunk/Sentinel, experimenting with Azure Entra ID/Intune/Defender for endpoint, running SOAR and EDR workflows, and performing digital investigations using tools like Autopsy, Wireshark, Sleuth Kit, and Volatility.
+On the technical side, I’ve built and explored labs and projects, including monitoring logs, threat hunting in Splunk/Sentinel, experimenting with Azure Entra ID/Intune/Defender for endpoint, running SOAR and EDR workflows, and performing digital investigations using tools like Autopsy, Wireshark, Sleuth Kit, and Volatility.
 
 I enjoy learning by doing, figuring out how to make systems more secure, and thinking about both the technical side and how it affects people and business. Outside of cybersecurity, I love playing football and enjoy team sports that challenge me both physically and mentally.
 
